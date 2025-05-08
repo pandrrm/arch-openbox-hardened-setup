@@ -30,3 +30,4 @@ startx
 
 ## License
 MIT
+"# arch-openbox-hardened-setup" 

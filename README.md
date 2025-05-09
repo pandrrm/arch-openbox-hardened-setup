@@ -29,6 +29,6 @@ startx
 ![screenshot](wallpapers/openbox-hardened-screenshot.png)
 
 ## License
+
 MIT
-"# arch-openbox-hardened-setup" 
-"# arch-openbox-hardened-setup" 
+

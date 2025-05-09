@@ -26,7 +26,7 @@ startx
 
 ## Screenshot
 
-*(Add screenshot here if needed)*
+![screenshot](wallpapers/openbox-hardened-screenshot.png)
 
 ## License
 MIT
